@@ -1,0 +1,15 @@
+From m_rf.flound@lena
+To: gdpb@gdpb
+From: R J Finean <m_rf.flound@lena>
+Message-ID: <25c998d9.flound@lena.uucp>
+Subject: hello message
+.FI rjf/gdp/t1
+.FR 21/3/90
+.PR 0
+.TO 22/3/90
+.TL
+Hello, world
+\E
+.CD
+Laser Message Display System
+.DE

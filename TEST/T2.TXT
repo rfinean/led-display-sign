@@ -1,0 +1,13 @@
+From m_rf.flound@lena
+To: gdpb@gdpb
+From: R J Finean <m_rf.flound@lena>
+Message-ID: <25c998d9.flound@lena.uucp>
+Subject: default message
+.FI rjf/gdp/t2
+.PR 0
+.TO 30/12/98, 23:59
+.CD
+Electrical and Electronic Eng
+\f2Laser Message Display System\f1
+89/90 MEng Group Design Project
+.DE

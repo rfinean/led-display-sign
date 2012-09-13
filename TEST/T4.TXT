@@ -1,0 +1,14 @@
+From m_rf.flound@lena
+To: gdpb@gdpb
+From: R J Finean <m_rf.flound@lena>
+Message-ID: <25c998d9.flound@lena.uucp>
+Subject: test characters
+.FI rjf/gdp/t4
+.TO 22/3/90
+.CD
+ABCDEFGHIJKLMNOPQRS
+.LD
+TUVWXYZ 0123456789
+.RD
+abcdefghijklmnopqrstuvwxyz
+.DE

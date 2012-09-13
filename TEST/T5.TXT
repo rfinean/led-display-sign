@@ -1,0 +1,13 @@
+From m_rf.flound@lena
+To: gdpb@gdpb
+From: R J Finean <m_rf.flound@lena>
+Message-ID: <25c998d9.flound@lena.uucp>
+Subject: provisional exam timetable
+.FI rjf/gdp/t5
+.PR 1
+.TO 7/3/90
+.CD
+\f4PROVISIONAL EXAM TIMETABLE\f1
+is now on display in \f2Parkinson
+court.\f1 Please check for clashes.
+.DE

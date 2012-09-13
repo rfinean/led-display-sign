@@ -1,0 +1,12 @@
+From ....
+From: <->
+.FI system/mess/std/mwelcome
+.PR 0
+.FR 1/1/80
+.TO 1/1/80
+.DS C
+\fIWelcome\fP to the department of
+ELECTRONIC \E ELECTRICAL
+ENGINEERING
+.DE
+

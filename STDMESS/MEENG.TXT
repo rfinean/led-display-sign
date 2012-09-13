@@ -1,0 +1,11 @@
+From ....
+From: <->
+.FI system/mess/std/meeng
+.PR 0
+.FR 1/1/80
+.TO 1/1/80
+.DS C
+Electronic and Electrical Eng
+\fILaser Message Display System\fP
+89/90 MEng Group Design Project
+.DE

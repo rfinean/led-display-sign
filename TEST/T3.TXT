@@ -1,0 +1,13 @@
+From m_rf.flound@lena
+To: gdpb@gdpb
+From: R J Finean <m_rf.flound@lena>
+Message-ID: <25c998d9.flound@lena.uucp>
+Subject: test message
+.FI rjf/gdp/t3
+.PR 1
+.TO 23/4/90, 12:30
+.CD
+El fabbo laser display system
+\f2"Et le plus borderlique!"\f1
+\f3GLASS lightens life!\f1
+.DE

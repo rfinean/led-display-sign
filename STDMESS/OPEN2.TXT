@@ -1,0 +1,10 @@
+From ....
+From: <->
+.FI system/mess/close/open2
+.PR
+.FR 1/1/80
+.TO 1/1/80
+.DS C
+Department  of  Electronic
+and  Electrical  Engineering
+.DE
