@@ -1,17 +1,16 @@
 # LED Display Sign
-================
 
 This C project has three components:
-1. A dot-matrix display sign formatter with an 8px ASCII font
-2. An e-mail inbox interface for posting messages on the sign
-3. A display sign controller for scrolling through the available messages.
+* A dot-matrix display sign formatter with an 8px ASCII font
+* An e-mail inbox interface for posting messages on the sign
+* A display sign controller for scrolling through the available messages.
 
 
 ## Dot-Matrix Display Formatter (LDF)
 
 The command-line formatter was written to produce bitmaps for a frickin' laser display
 but the format of the .LDM binary bitmap files can be adapted for
-[http://www.ebay.com/sch/i.html?_nkw=programmable+led+sign](off-the-shelf LED displays) instead.
+[off-the-shelf LED displays](http://www.ebay.com/sch/i.html?_nkw=programmable+led+sign) instead.
 (Our laser display had optics to scan and modulate an 8W laser over a 1024x24px bitmap
 but we did not have the money or safety clearence to use it with a laser any more than a few mW.)
 
@@ -20,7 +19,7 @@ but we did not have the money or safety clearence to use it with a laser any mor
 
 Messages are posted to the display sign by emailing them to the sign's email address.
 Because SMS also uses SMTP it is easy to convert this to an SMS interface
-but you will also want to simplify the [http://troff.org](TROFF)-like syntax of the message for SMS users.
+but you will also want to simplify the [TROFF](http://troff.org)-like syntax of the message for SMS users.
 
 
 ## Sign Controller (LASER)
@@ -42,5 +41,6 @@ It adds stock messages to the playlist if there is nothing to display.
 
 ## User Guide
 
-<iframe src="https://raw.github.com/finean/led-display-sign/master/HELP/README.TXT" width="80" height="25">
+<iframe src="https://raw.github.com/finean/led-display-sign/master/HELP/README.TXT" width="640" height="250">
+https://raw.github.com/finean/led-display-sign/master/HELP/README.TXT
 </iframe>
